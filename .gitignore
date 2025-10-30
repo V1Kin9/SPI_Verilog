@@ -1,0 +1,19 @@
+# Simulation outputs
+*.vcd
+*.out
+*_sim
+spi_master_sim
+spi_slave_sim
+
+# Waveform files
+*.vcd
+*.fst
+
+# Temporary files
+*.swp
+*.swo
+*~
+
+# OS files
+.DS_Store
+Thumbs.db
